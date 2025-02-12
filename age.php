@@ -16,7 +16,7 @@
 <body>
     <h1>This is My form</h1>
     <form action=""method="POST">
-        Age:<input type="number" name="age" value="">
+        Age:<input type="number"step="2" max ="50" name="age" value="">
         submit:<button>submit</button>
 </body>
 </html>
