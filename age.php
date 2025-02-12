@@ -16,7 +16,10 @@
 <body>
     <h1>This is My form</h1>
     <form action=""method="POST">
-        Age:<input type="number" name="age" value="">
-        submit:<button>submit</button>
+        username: <input type="text" name="username" value="">
+        </br></br>
+        password: <input type="password" name="password" value="">
+        </br></br>
+        submit:<button>login</button> 
 </body>
 </html>
